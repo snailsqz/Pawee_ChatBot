@@ -6,7 +6,7 @@ from pypdf import PdfReader
 import gradio as gr
 import google.generativeai as genai
 
-
+#TEST UPloading to HF
 load_dotenv(override=True)
 
 def push(text):
